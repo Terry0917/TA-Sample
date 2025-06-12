@@ -3,7 +3,7 @@ using namespace std;
 
 void Blackpink(){
 
-cout << "把我的票還來 哭哭" << endl;
+cout << "把我的票還來 露比醬" << endl;
 
 
 }
