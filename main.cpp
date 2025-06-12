@@ -1,16 +1,15 @@
-#include<iostream>
+#include <iostream>
 using namespace std;
 
-void Blackpink(){
+void Blackpink()
+{
 
-cout << "把我的票還來 露比醬" << endl;
-
-
+    cout << "把我的票還來 露比醬" << endl;
 }
-int main(void){
+int main(void)
+{
 
-Blackpink();
+    Blackpink();
 
-return 0 ;
-
+    return 0;
 }
